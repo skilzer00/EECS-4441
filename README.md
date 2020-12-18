@@ -1,6 +1,6 @@
 # EECS-4441
 Human Computer Interaction Fall 2020
-Measuring the Impact of Sleep on Human Reaction Time and Accuracy
+### Measuring the Impact of Sleep on Human Reaction Time and Accuracy
 
 - Kannan Gnanasegaram kannan11@my.yorku.ca 
 - Sadman Sakib skilzer@my.yorku.ca 
